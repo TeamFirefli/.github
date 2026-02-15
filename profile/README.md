@@ -32,7 +32,7 @@
   <h2>🐾 Leah's Cute GIFs</h2>
 
   <div style="display:flex; flex-wrap:wrap; gap:12px;">
-    <img src="https://media.discordapp.net/attachments/1465042924944494863/1472676393526624296/74466388-9DE1-4DA0-BED4-B9220ED2A47A.gif?ex=69937045&is=69921ec5&hm=2c6c85d69ca24e43383c5141dca5d1d93b45f071a04c4e9281a939336e15d75f&=" width="200" />
+    <img src="https://media.discordapp.net/attachments/1465042924944494863/1472676667947352289/8D8B421B-8DF8-460E-9E09-5F41C7B7BC8B.gif?ex=69937086&is=69921f06&hm=0e87535f48227223028d792f4fd2d282bcfd8fcea98925494a5d7ef88a4b0f7e&=" width="200" />
     <img src="https://media.discordapp.net/attachments/1465042924944494863/1472676393883271357/96EF32DE-6DF1-4C65-BED2-AF88A348B0C0.gif?ex=69937045&is=69921ec5&hm=fffb9b5c829551d70c6f603f3dc03c35edf8a50511347c5ac07ca8e7fc6a2031&=" width="200" />
     <img src="https://media.discordapp.net/attachments/1465042924944494863/1472676394185265212/B71E21CC-91F4-4B93-B8CC-BFF658E970B6.gif?ex=69937045&is=69921ec5&hm=335ed112ef3aedb577d747bf174a94360205358f15e57127ec99dbdc2ac6b745&=" width="200" />
   </div>
