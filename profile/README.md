@@ -24,12 +24,12 @@
 
   <h2>🎵 Team Firefli's Song Picks</h2>
   <ul>
-    <li>🔊 https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr?si=ef06e3a7137543c6</li>
-    <li>🔊 https://open.spotify.com/track/4FJ50kkBvVzJte01d6Gtt8?si=10bbfca0ceb846ea</li>
-    <li>🔊 https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5?si=aaef0e2a808a411e</li>
+    <li>🔊 https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8?si=6321eb663f9d46b9</li>
+    <li>🔊 https://open.spotify.com/track/6B80GgC6d1IqNuFnidibLx?si=86efd0c86269476f</li>
+    <li>🔊 https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya?si=0391534839cf4d50</li>
   </ul>
 
-  <h2>🐾 Cute Cat GIFs</h2>
+  <h2>🐾 Leah's Cute GIFs</h2>
 
   <div style="display:flex; flex-wrap:wrap; gap:12px;">
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
