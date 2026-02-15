@@ -29,7 +29,7 @@
     <li>🔊 https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya?si=0391534839cf4d50</li>
   </ul>
 
-  <h2>🐾 Leah's Cute GIFs</h2>
+  <h2>🌼 Leah's Cute GIFs</h2>
 
   <div style="display:flex; flex-wrap:wrap; gap:12px;">
     <img src="https://media.discordapp.net/attachments/1465042924944494863/1472676667947352289/8D8B421B-8DF8-460E-9E09-5F41C7B7BC8B.gif?ex=69937086&is=69921f06&hm=0e87535f48227223028d792f4fd2d282bcfd8fcea98925494a5d7ef88a4b0f7e&=" width="200" />
