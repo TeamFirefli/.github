@@ -17,9 +17,9 @@
   </div>
 
   <p>
-    Thank you for checking out the Team Firefli  
-    You won’t find much here besides this README and the Firefli repository —  
-    but while you're here, Team Firefli has recommended some songs and cute cat GIFs.
+    Thank you for checking out the Team Firefli</p>
+    <p>You won’t find much here besides this README and the Firefli repository 
+    but while you're here, we've has recommended some songs and cute cat GIFs.
   </p>
 
   <h2>🎵 Team Firefli's Song Picks</h2>
