@@ -22,6 +22,9 @@
     but while you're here, we've has recommended some songs and cute cat GIFs.
   </p>
 
+  <h2>☕ Support the Developers</h2>
+  <li>https://buymeacoffee.com/teamfirefli</li>
+
   <h2>🎵 Team Firefli's Song Picks</h2>
   <ul>
     <li>🔊 https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8?si=6321eb663f9d46b9</li>
