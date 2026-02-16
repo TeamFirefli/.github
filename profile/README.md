@@ -23,7 +23,9 @@
   </p>
 
   <h2>☕ Support the Developers</h2>
-  <li>https://buymeacoffee.com/teamfirefli</li>
+  <ul>
+    <li>https://buymeacoffee.com/teamfirefli</li>
+  </ul>
 
   <h2>🎵 Team Firefli's Song Picks</h2>
   <ul>
