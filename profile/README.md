@@ -29,9 +29,9 @@
 
   <h2>🎵 Team Firefli's Song Picks</h2>
   <ul>
-    <li>🔊 https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8?si=6321eb663f9d46b9</li>
-    <li>🔊 https://open.spotify.com/track/6B80GgC6d1IqNuFnidibLx?si=86efd0c86269476f</li>
-    <li>🔊 https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya?si=0391534839cf4d50</li>
+    <li>🔊 https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8</li>
+    <li>🔊 https://open.spotify.com/track/6B80GgC6d1IqNuFnidibLx</li>
+    <li>🔊 https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya</li>
   </ul>
 
   <h2>🌼 Leah's Cute GIFs</h2>
